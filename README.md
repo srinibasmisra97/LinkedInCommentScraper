@@ -25,7 +25,7 @@ source ./venv/bin/activate
 
 Run the following command to install python dependencies:
 ```
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 ```
 
 To download the chromium driver:

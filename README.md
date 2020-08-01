@@ -3,11 +3,11 @@
 ## Setup
 
 Tools required:
-1. Python3 (https://realpython.com/installing-python/)
-2. Pip3 for Python3 (https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/)
+1. [Python3](https://realpython.com/installing-python/)
+2. [Pip3 for Python3](https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/)
 3. Virtualenv
-4. Google Chrome
-5. Chromium Driver
+4. [Google Chrome](https://www.google.com/intl/en_in/chrome/)
+5. [Chromium Driver](https://chromedriver.chromium.org/)
 
 If any Python IDE, such as PyCharm is installed, then points 1-4 can be ignored, as they would already be present.
 
@@ -29,7 +29,7 @@ pip3 install requirements.txt
 ```
 
 To download the chromium driver:
-1. Go to https://chromedriver.chromium.org/
+1. [Click here.](https://chromedriver.chromium.org/)
 2. Download the driver for your specific version of chrome. To check that:
     1. Open chrome.
     2. Go to chrome://version .

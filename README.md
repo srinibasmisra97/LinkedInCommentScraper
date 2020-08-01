@@ -11,7 +11,8 @@ Tools required:
 
 If any Python IDE, such as PyCharm is installed, then points 1-4 can be ignored, as they would already be present.
 
-Download or clone the code from github. And open a command prompt or terminal(normal linux terminal or in PyCharm).
+Download or clone the code from github. 
+Open a command prompt or terminal(normal linux terminal or in PyCharm), and go to the downloaded folder.
 
 To setup `virtualenv`:
 ```

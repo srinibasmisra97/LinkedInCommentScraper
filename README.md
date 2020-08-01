@@ -11,6 +11,8 @@ Tools required:
 
 If any Python IDE, such as PyCharm is installed, then points 1-4 can be ignored, as they would already be present.
 
+Download or clone the code from github. And open a command prompt or terminal(normal linux terminal or in PyCharm).
+
 To setup `virtualenv`:
 ```
 virtualenv -p python3 venv

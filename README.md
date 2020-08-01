@@ -49,6 +49,6 @@ Enter username and password.
 
 Wait and watch.
 
-*PLEASE DO NOT INTERFERE WITH THE PROCESS*
+***PLEASE DO NOT INTERFERE WITH THE PROCESS***
 
 You can check the number of comments parsed in the execution terminal.
